@@ -1,6 +1,10 @@
 {
-  "name": "nextjs-boilerplate",
+  "name": "nextjs-app-boilerplate",
   "version": "0.1.0",
+  "description": "A Next.js 13 App directory boilerplate",
+  "repository": "https://github.com/guustavocl/nextjs-app-boilerplate",
+  "author": "@guustavocl - https://gus.sh/",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
